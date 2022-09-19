@@ -22,7 +22,7 @@ Hi, I'm Mayank Sahu, a passionate software developer. My passion for software li
 
 
 
-If you like what I do, maybe consider contributing to my repos. 🥺👉👈
+If you like what I do, maybe consider contributing to my repos. 
 
 
 🚧 **My Todo:**
