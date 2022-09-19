@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @pokeMike
-- 👀 I’m interested in game development.
-- 🌱 I’m currently learning unreal engine.
-- 💞️ I’m looking to collaborate on Game development
-- 📫 How to reach me .....
+- 👋 Hi, I’m Mayank Sahu
+- 👀 I’m interested in Front-end Developer.
+- 🌱 I’m currently learning ReactJs
+- 📫 How to reach me ..
 
 <!---
 pokeMike/pokeMike is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
