@@ -10,7 +10,6 @@ Hi, I'm Mayank Sahu, a passionate software developer. My passion for software li
   
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@mayanksahu](mailto:mikeanjelo911@gmail.com);
-- 📝 [Resume](https://raw.githubusercontent.com/LUCIF680/LUCIF680/main/Pratik%20Mazumdar.pdf)
 
 **Languages and Tools:**  
 
@@ -23,11 +22,3 @@ Hi, I'm Mayank Sahu, a passionate software developer. My passion for software li
 
 
 If you like what I do, maybe consider contributing to my repos. 
-
-
-🚧 **My Todo:**
-<!-- TODO-IST:START -->
-✅  Create a Game.
-✅  Learn MongoDB.
-
-<!-- TODO-IST:END -->
