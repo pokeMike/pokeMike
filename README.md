@@ -5,7 +5,7 @@
 <br/>
 <br />
 Hi, I'm Mayank Sahu, a passionate software developer. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build. I am also an open-source enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source. 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="470" height="300" />
   
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@mayanksahu](mailto:mikeanjelo911@gmail.com);
