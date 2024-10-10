@@ -12,9 +12,11 @@ Hi, I'm Mayank Sahu, a passionate software developer. My passion for software li
 
 **Languages and Tools:**  
 
+<code><img height="25" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/html-5.svg"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/css-3.svg"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/tailwindcss.svg"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/react.svg"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/java.svg"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/npm.svg"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/python.svg"></code>
